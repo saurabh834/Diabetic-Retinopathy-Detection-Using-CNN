@@ -1,8 +1,6 @@
 # Diabetic Retinopathy Web App
 Webapp for classification of Diabetic Retinopathy from retinal images using flask and keras.
-<p align="center">
-  <img src="https://github.com/snsten/Diabetic-Retinopathy-WebApp/blob/master/data/prediction.jpg">
-</p>
+
 
 ## Diabetic Retinopathy
 Diabetic retinopathy is an eye condition that can cause vision loss and blindness in people who have diabetes. It affects blood vessels in the retina.
