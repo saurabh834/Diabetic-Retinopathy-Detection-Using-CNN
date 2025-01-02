@@ -5,11 +5,8 @@ Webapp for classification of Diabetic Retinopathy from retinal images using flas
 ## Diabetic Retinopathy
 Diabetic retinopathy is an eye condition that can cause vision loss and blindness in people who have diabetes. It affects blood vessels in the retina.
 
-No Diabetic Retinopathy    |  Severe Diabetic Retinopathy
-:-------------------------:|:-------------------------:
-
  <p align="center">
-  <img src="[https://ars.els-cdn.com/content/image/1-s2.0-S2772442524000054-gr6.jpg](https://www.researchgate.net/publication/363858079/figure/fig5/AS:11431281147393709@1681610800275/Typical-model-architecture-for-Diabetic-Retinopathy-detection.png)">
+  <img src="[[https://ars.els-cdn.com/content/image/1-s2.0-S2772442524000054-gr6.jpg](https://www.researchgate.net/publication/363858079/figure/fig5/AS:11431281147393709@1681610800275/Typical-model-architecture-for-Diabetic-Retinopathy-detection.png)](https://www.mdpi.com/applsci/applsci-13-05685/article_deploy/html/images/applsci-13-05685-g001-550.jpg)">
 </p>
 ## Data Description
 
