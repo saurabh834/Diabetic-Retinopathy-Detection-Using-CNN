@@ -8,7 +8,10 @@ Diabetic retinopathy is an eye condition that can cause vision loss and blindnes
 No Diabetic Retinopathy    |  Severe Diabetic Retinopathy
 :-------------------------:|:-------------------------:
 
-
+<p>
+    <img src="https://www.researchgate.net/publication/363858079/figure/fig5/AS:11431281147393709@1681610800275/Typical-model-architecture-for-Diabetic-Retinopathy-detection.png">
+        
+</p>
 ## Data Description
 
 Dataset consists of retina images taken using fundus photography under a variety of imaging conditions.
